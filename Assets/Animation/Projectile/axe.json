@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"mqdWIznt7b4","spine":"4.0.52","x":-19.5,"y":-17,"width":39,"height":34,"images":"","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"axe","bone":"root","attachment":"axe"}],"skins":[{"name":"default","attachments":{"axe":{"axe":{"width":39,"height":34}}}}],"animations":{"animation":{"bones":{"root":{"rotate":[{},{"time":1,"value":360}]}}}}}

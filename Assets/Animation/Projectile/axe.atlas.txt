@@ -1,0 +1,7 @@
+axe.png
+size:41,36
+filter:Linear,Linear
+pma:true
+axe
+bounds:2,2,37,32
+offsets:1,1,39,34
